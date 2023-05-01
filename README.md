@@ -1,13 +1,13 @@
 ### 👋 Hi, I’m @vimsha2
 
 ### 👀 I’m interested in
-- Frontend development, React, Redux and GraphQL
+- Frontend development
 
 ### 🌱 I’m currently learning
-- Gatsby
+- Scala 
 
 ### 💞️ I’m looking to collaborate on
-- GIS integration to Gatsby
+- Scala and Java
 
 ### 📫 How to reach me
 - vimal.k.shah@omb.eop.gov
